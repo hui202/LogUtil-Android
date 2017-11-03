@@ -14,4 +14,7 @@ public class LogDebug {
         Log.d(TAG, message);
     }
 
+    public static void findSomething(String message) {
+        Log.d(TAG, message);
+    }
 }
